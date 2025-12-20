@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d698943-6e76-4e00-a8b9-b76105ae3524" name="Changes" comment="add files - module 1 and 2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HW" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;proooooogiba&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:proooooogiba/data-analysis.git",
+    "accountId": "1bd549b0-5a52-4373-bb43-779b21e6365d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="34WgvvKobscWJTyUVJycwxeZ3jp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.seminar_optical_flow.executor": "Run",
+    "Python.train_and_save_hw3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "HW-3",
+    "last_opened_file_path": "/Users/iopogiba/Documents/HSE/Module 1/Data Analysis Tools/MTS-Data-Analysis-2025",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.android.studio.ml.bot.mainConfigurable"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="MTS-Data-Analysis-2025" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="MTS-Data-Analysis-2025" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CV" />
+      <recent name="$PROJECT_DIR$/NLP" />
+      <recent name="$PROJECT_DIR$/Time Series/hw/hw3" />
+      <recent name="$PROJECT_DIR$/Time Series/hw/hw2" />
+      <recent name="$PROJECT_DIR$/Time Series/Seminars" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data Tools/hw2/data" />
+      <recent name="$PROJECT_DIR$/Data Tools/hw1/data" />
+      <recent name="$PROJECT_DIR$/Time Series/hw/hw3/models" />
+      <recent name="$PROJECT_DIR$/Time Series/hw/hw3" />
+      <recent name="$PROJECT_DIR$/Time Series/hw/hw2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.seminar_optical_flow">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="MTS-Data-Analysis-2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 virtualenv at ~/Documents/HSE/Module 1/Data Analysis Tools/PyCharmMiscProject/.venv" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seminar_optical_flow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MTS-Data-Analysis-2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 virtualenv at ~/Documents/HSE/Module 1/Data Analysis Tools/PyCharmMiscProject/.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CV/seminar_optical_flow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_and_save_hw3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MTS-Data-Analysis-2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 virtualenv at ~/Documents/HSE/Module 1/Data Analysis Tools/PyCharmMiscProject/.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Time Series/hw/hw3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Time Series/hw/hw3/train_and_save_hw3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.seminar_optical_flow" />
+        <item itemvalue="Python.train_and_save_hw3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d698943-6e76-4e00-a8b9-b76105ae3524" name="Changes" comment="" />
+      <created>1761334975786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761334975786</updated>
+      <workItem from="1765889334440" duration="55000" />
+      <workItem from="1765889404646" duration="1571000" />
+      <workItem from="1766229220499" duration="64000" />
+      <workItem from="1766230032926" duration="334000" />
+      <workItem from="1766230374951" duration="168000" />
+      <workItem from="1766230562247" duration="57000" />
+      <workItem from="1766230629195" duration="134000" />
+      <workItem from="1766230774536" duration="452000" />
+      <workItem from="1766231251664" duration="373000" />
+      <workItem from="1766231636104" duration="99000" />
+      <workItem from="1766231762926" duration="4803000" />
+      <workItem from="1766430246965" duration="5116000" />
+      <workItem from="1766435390653" duration="7063000" />
+      <workItem from="1766775481801" duration="192000" />
+      <workItem from="1767011966079" duration="189000" />
+      <workItem from="1770655949083" duration="2812000" />
+      <workItem from="1770805576170" duration="3423000" />
+      <workItem from="1771258926219" duration="4662000" />
+      <workItem from="1771786813093" duration="3210000" />
+      <workItem from="1771967219198" duration="767000" />
+      <workItem from="1771968130990" duration="345000" />
+      <workItem from="1772470860134" duration="3047000" />
+      <workItem from="1772612302477" duration="2058000" />
+      <workItem from="1773079679764" duration="2623000" />
+      <workItem from="1773083821638" duration="43000" />
+      <workItem from="1773083939741" duration="1876000" />
+    </task>
+    <task id="LOCAL-00001" summary="mk">
+      <option name="closed" value="true" />
+      <created>1764703033848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764703033848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add gitignore">
+      <option name="closed" value="true" />
+      <created>1766237733704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766237733704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add files - module 1 and 2">
+      <option name="closed" value="true" />
+      <created>1766237930001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766237930001</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add files - module 1 and 2">
+      <option name="closed" value="true" />
+      <created>1766237945412</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766237945412</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add files - module 1 and 2">
+      <option name="closed" value="true" />
+      <created>1766237977379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766237977379</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add files - module 1 and 2">
+      <option name="closed" value="true" />
+      <created>1773083955747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773083955747</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add files - module 1 and 2">
+      <option name="closed" value="true" />
+      <created>1773085929053</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773085929053</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add files - module 1 and 2">
+      <option name="closed" value="true" />
+      <created>1773085931272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773085931272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add files - module 1 and 2">
+      <option name="closed" value="true" />
+      <created>1773086145283</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773086145283</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="upd&#10;&#10;# Conflicts:&#10;#&#9;.DS_Store&#10;#&#9;Lect01. Recap/README.md&#10;#&#9;Lect02. Statistical Structures/README.md&#10;#&#9;README.md" />
+    <MESSAGE value="mk" />
+    <MESSAGE value="add gitignore" />
+    <MESSAGE value="add files - module 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files - module 1 and 2" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MTS_Data_Analysis_2025$train_and_save_hw3.coverage" NAME="train_and_save_hw3 Coverage Results" MODIFIED="1766436616732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time Series/hw/hw3" />
+    <SUITE FILE_PATH="coverage/MTS_Data_Analysis_2025$seminar_optical_flow.coverage" NAME="seminar_optical_flow Coverage Results" MODIFIED="1771263872187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CV" />
+  </component>
+</project>

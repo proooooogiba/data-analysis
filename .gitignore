@@ -1,1 +1,6 @@
+data/
 *.csv
+*.parquet
+*.zip
+.ipynb_checkpoints/
+.idea/
